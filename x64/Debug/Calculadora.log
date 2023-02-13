@@ -1,0 +1,8 @@
+﻿  Calculadora.cpp
+C:\Users\ti\Desktop\Proj\Calculadora\Calculadora.h(391,38): warning C4566: caractere representado por nome de caractere universal (UCN) '\u221A' não pode ser representado na página de código atual (1252)
+C:\Users\ti\Desktop\Proj\Calculadora\Calculadora.h(411,8): warning C4566: caractere representado por nome de caractere universal (UCN) '\u221A' não pode ser representado na página de código atual (1252)
+C:\Users\ti\Desktop\Proj\Calculadora\Calculadora.h(495,13): warning C4566: caractere representado por nome de caractere universal (UCN) '\u221A' não pode ser representado na página de código atual (1252)
+C:\Users\ti\Desktop\Proj\Calculadora\Calculadora.h(497,19): warning C4566: caractere representado por nome de caractere universal (UCN) '\u221A' não pode ser representado na página de código atual (1252)
+C:\Users\ti\Desktop\Proj\Calculadora\Calculadora.cpp(6,1): warning C4829: Parâmetros possivelmente incorretos para função main. Considere o uso de 'int main(Platform::Array<Platform::String^>^ argv)'
+  Calculadora.obj : Módulo MSIL encontrado; vínculo incremental está desabilitado para MSIL; executando link completo
+  Calculadora.vcxproj -> C:\Users\ti\Desktop\Proj\Calculadora\x64\Debug\Calculadora.exe

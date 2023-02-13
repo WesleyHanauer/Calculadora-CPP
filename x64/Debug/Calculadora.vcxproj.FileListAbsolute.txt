@@ -1,0 +1,5 @@
+C:\Users\ti\Desktop\Proj\Calculadora\x64\Debug\Calculadora.vcxproj.AssemblyReference.cache
+C:\Users\ti\Desktop\Proj\Calculadora\x64\Debug\Calculadora.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ti\Desktop\Proj\Calculadora\x64\Debug\Calculadora.vcxproj.GenerateResource.cache
+C:\Users\ti\Desktop\Proj\Calculadora\x64\Debug\Calculadora.exe
+C:\Users\ti\Desktop\Proj\Calculadora\x64\Debug\Calculadora.Calculadora.resources
